@@ -1,5 +1,10 @@
 # Ali Vardasbi
 
+Here's an image of a drag racer in action:
+
+![Vahid](vahid.jpg)
+
+Move along.
 
 I'm a PhD student at the [University of Amsterdam, IRLab](https://irlab.science.uva.nl/), working on different aspects of search and recommendation.
 My supervisors are [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Mostafa Dehghani](https://mostafadehghani.com/).
