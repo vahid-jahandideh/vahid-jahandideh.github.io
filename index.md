@@ -10,4 +10,5 @@ Before that, I was a researcher at [Sharif University in Iran](https://en.sharif
 ## Publications  
 
 -Vahid Jahandideh, [Concrete Evaluation of the Random Probing Security](https://eprint.iacr.org/2021/859). IACR Cryptol. ePrint Arch. (2021)
+
 -Vahid Jahandideh,[Verification of the security in Boolean masked circuits](https://eprint.iacr.org/2021/860). IACR Cryptol. ePrint Arch. (2021)
