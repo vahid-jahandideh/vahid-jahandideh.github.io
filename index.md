@@ -2,10 +2,10 @@
 
 ![Vahid](vahid.jpg)
 
-I'm a PhD student at the [Radboud University, Digitial Security](https://www.ru.nl/dis/), working on practical asspects of leakage resilient  designs and side-chanel attacks.
+I'm a PhD student at the [Radboud University, digitial security group](https://www.ru.nl/dis/), working on practical asspects of leakage resilient  designs and side-chanel attacks.
 My supervisors are [Lejla Batina](https://staff.fnwi.uva.nl/m.derijke/) and [Bart Mennink](https://mostafadehghani.com/).
 
-Before that I was a researcher at [Sharif Univerisrty] in Iran (https://en.sharif.edu/)
+Before that I was a researcher at [Sharif Univerisrty in Iran](https://en.sharif.edu/)
 
 ## Publications  
 
