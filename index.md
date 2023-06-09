@@ -11,7 +11,7 @@ Before that, I was a researcher at [Sharif University in Iran](https://en.sharif
 
 ## Publications  
 
-- Vahid Jahandideh, Léo Weissbart, Bart Mennink, Lejla Batina, [A New Leakage Exploitation Framework and Its Application to Authenticated Encryption](paper_NIST.pdf). NIST Lightweight Cryptography Workshop. (2023)
+- Vahid Jahandideh, Léo Weissbart, Bart Mennink, Lejla Batina, [A New Leakage Exploitation Framework and Its Application to Authenticated Encryption](https://csrc.nist.gov/csrc/media/Events/2023/lightweight-cryptography-workshop-2023/documents/accepted-papers/05-a-new-leakage-exploitation-framework.pdf). NIST Lightweight Cryptography Workshop. (2023)
 - Vahid Jahandideh, [Concrete Evaluation of the Random Probing Security](https://eprint.iacr.org/2021/859). IACR Cryptol. ePrint Arch. (2021)
 - Vahid Jahandideh, [Verification of the security in Boolean masked circuits](https://eprint.iacr.org/2021/860). IACR Cryptol. ePrint Arch. (2021)
 
