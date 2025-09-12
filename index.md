@@ -9,7 +9,8 @@ My supervisors are [Lejla Batina](https://www.cs.ru.nl/~lejla/) and [Bart Mennin
 
 Before that, I was a researcher at [Sharif University in Iran](https://en.sharif.edu/).
 
-## Publications  
+## Publications 
+- Vahid Jahandideh, Bart Mennink, Lejla Batina, [Probing Secure Composability Without Fresh Randomness: Theory and Application to Ascon](https://tches.iacr.org/index.php/TCHES/article/view/12435/12163), IACR Transactions on Cryptographic Hardware and Embedded Systems. (2025) 
 - Vahid Jahandideh, Bart Mennink, Lejla Batina, [An Algebraic Approach for Evaluating Random Probing Security With Application to AES](https://tches.iacr.org/index.php/TCHES/article/view/11806), IACR Transactions on Cryptographic Hardware and Embedded Systems. (2024)
 - Vahid Jahandideh, Léo Weissbart, Bart Mennink, Lejla Batina, [A New Leakage Exploitation Framework and Its Application to Authenticated Encryption](https://csrc.nist.gov/csrc/media/Events/2023/lightweight-cryptography-workshop-2023/documents/accepted-papers/05-a-new-leakage-exploitation-framework.pdf). NIST Lightweight Cryptography Workshop. (2023)
 - Vahid Jahandideh, [Concrete Evaluation of the Random Probing Security](https://eprint.iacr.org/2021/859). IACR Cryptol. ePrint Arch. (2021)
