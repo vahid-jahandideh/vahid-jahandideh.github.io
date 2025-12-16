@@ -1,6 +1,6 @@
 # Vahid Jahandideh
 
-<img src="vahid2.jpg" alt="Vahid" width="220">
+<img src="vahid2.jpg" alt="Vahid" width="320">
 
 I'm a PhD student at the [Radboud University, digital security group](https://www.ru.nl/dis/), working on practical aspects of leakage resilient  designs and side-channel attacks.
 My supervisors are [Lejla Batina](https://www.cs.ru.nl/~lejla/) and [Bart Mennink](https://www.cs.ru.nl/~bmennink/). I'm also part of [CESCALAB](https://cescalab.cs.ru.nl/) which is specialized in performing various side-channel analyses and implementations.
