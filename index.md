@@ -2,9 +2,11 @@
 
 <img src="vahid2.jpg" alt="Vahid" width="350">
 
-I'm a postdoctoral researcher in the [Digital Security group at Radboud University](https://www.ru.nl/dis/), working with [Lejla Batina](https://www.cs.ru.nl/~lejla/) on implementation security for post-quantum cryptography.
+I'm a postdoctoral researcher in the [Digital Security group at Radboud University](https://www.ru.nl/dis/), working with [Lejla Batina](https://www.cs.ru.nl/~lejla/) on the side-channel security of post-quantum cryptography, with a focus on Kyber/ML-KEM and HQC. I combine power-trace experiments with probabilistic and algebraic analysis to study how implementation leakage can be exploited for key recovery and how countermeasures affect the difficulty of these attacks. My recent work investigates single-trace leakage in ML-KEM key generation and belief-propagation attacks on a first-order masked Kyber implementation. These studies examine how leakage interacts with the mathematical structure of the schemes and what this means for their secure implementation.
 
-My PhD research focused on practical aspects of leakage-resilient designs and side-channel attacks, under the supervision of [Lejla Batina](https://www.cs.ru.nl/~lejla/) and [Bart Mennink](https://www.cs.ru.nl/~bmennink/). I'm also part of [CESCALAB](https://cescalab.cs.ru.nl/), which specializes in side-channel analysis and cryptographic implementations.
+My PhD research, supervised by [Lejla Batina](https://www.cs.ru.nl/~lejla/) and [Bart Mennink](https://www.cs.ru.nl/~bmennink/), focused on evaluating and designing masking schemes for side-channel security. I developed algebraic and probabilistic methods for analyzing security in the random probing model and relating it to noisy leakage, with applications to masked AES. I also studied how masked components can be composed securely and developed higher-order deterministic masking constructions that use the randomness in their initial input sharings without consuming fresh randomness during execution. This line of work led to deterministic masked implementations of Ascon.
+
+I'm also part of [CESCALAB](https://cescalab.cs.ru.nl/), which specializes in side-channel analysis and cryptographic implementations.
 
 Before my PhD, I was a researcher at [Sharif University in Iran](https://en.sharif.edu/).
 
