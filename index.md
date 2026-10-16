@@ -16,6 +16,7 @@ My PhD defense will take place in **November 2026**. [Read my thesis (PDF)](thes
 
 ## Publications
 
+- Vahid Jahandideh, Lejla Batina, [Breaking First-Order Masked Kyber with Belief Propagation Alone](https://eprint.iacr.org/2026/2448). Cryptology ePrint Archive, Paper 2026/2448. Preprint. (2026)
 - Vahid Jahandideh, [Too Small to Hide: Single-Trace Key Recovery from ML-KEM Key Generation](https://eprint.iacr.org/2026/2137). Cryptology ePrint Archive, Paper 2026/2137. Accepted at [ACTIVE 2026](https://active.cs.ru.nl/2026/). [DOI](https://doi.org/10.1145/3847162.3849237).
 - Vahid Jahandideh, Bart Mennink, Lejla Batina, [Leakage-Diagrams, Importance Sampling, and Composition in the Random Probing Model](https://eprint.iacr.org/2026/444). Cryptology ePrint Archive, Paper 2026/444. Accepted for CHES 2027.
 - Vahid Jahandideh, Bart Mennink, Lejla Batina, [A Decomposition Approach for Evaluating Security of Masking](https://link.springer.com/chapter/10.1007/978-981-95-5018-0_19), Advances in Cryptology – ASIACRYPT. (2025) 
