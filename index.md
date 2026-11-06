@@ -14,7 +14,7 @@ I'm also part of [CESCALAB](https://cescalab.cs.ru.nl/). Before my PhD, I was a 
 
 ## Thesis and résumé
 
-I defended my PhD on **4 November 2026**. [Read my thesis (PDF)](thesis.pdf).
+I defended my PhD in November 2026. [Read my thesis (PDF)](thesis.pdf).
 
 [Download my résumé (PDF)](Vahid_Jahandideh_resume.pdf).
 
